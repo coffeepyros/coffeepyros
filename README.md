@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+This is my private GitHub account. If you are a student or colleague of mine, you can find my teacher account here: 
+
+🧑‍💻 https://github.com/christian-heinrich-dci
+
 <!--
 **coffeepyros/coffeepyros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
