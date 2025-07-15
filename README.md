@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is my private GitHub account. If you are a student or colleague of mine, you can find my teaching profile here: 
+This is my private GitHub account. It was inactive for the last 4 years. If you are a student or colleague of mine, you can find my teaching profile here: 
 
 🧑‍💻 https://github.com/christian-heinrich-dci
 
