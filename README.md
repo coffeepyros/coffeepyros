@@ -7,7 +7,7 @@ This is my personal GitHub account. Between 2021 and 2025, I used another teachi
 - 🔭 I’m currently thinking about: next steps
 - 🌱 I’m currently learning: Python
 - 📝 next on the list: Vue + Nitro
-- 🤔 I’m looking for help with: eInk displays
+- 🤔 I’m looking for help with: E-Ink displays
 - 💬 Ask me about: web development, (film) photography, film development
 - 📫 How to reach me: christian.wd(at)proton.me
 
